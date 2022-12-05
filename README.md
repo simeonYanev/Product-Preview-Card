@@ -21,7 +21,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-./Screenshot Solution.png
+![Screenshot Solution](https://user-images.githubusercontent.com/116998052/205561971-4d70e84f-725c-4969-a837-d5f9f3902ba3.png)
 
 ### Links
 
@@ -40,8 +40,7 @@ In this challenge I've learned how to replicate a simple design from a picture u
 
 ### Continued development
 
-I think that I've successfully copied the desktop version of the disign but still have to work on my responsive design skills.е
-
+I think that I've successfully copied the desktop version of the disign but still have to work on my responsive design skills.
 
 ## Author
 
